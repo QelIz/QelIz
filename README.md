@@ -5,7 +5,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Hello%2C+I'Muhammad+Faiz+Aqeel+%F0%9F%91%8B;Software+Developer+from+Indonesia;Building+web%2C+mobile%2C+and+system+tools;Learning+something+new+every+day+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Hello%2C+I'+Muhammad+Faiz+Aqeel+%F0%9F%91%8B;Software+Developer+from+Indonesia;Building+web%2C+mobile%2C+and+system+tools;Learning+something+new+every+day+%F0%9F%9A%80"
     alt="Typing animation"
   />
 
