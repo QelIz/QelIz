@@ -89,14 +89,14 @@ My current areas of interest include:
 - Improving software architecture and clean code practices
 - Developing APIs and deployment workflows
 
-##Contact Me
+## Contact Me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40example.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:faizaqeel28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-faizaqeel28%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/faizaqeel">
+    <img src="https://img.shields.io/badge/LinkedIn-faizaqeel-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/QelIz">
     <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
