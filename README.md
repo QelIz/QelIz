@@ -5,7 +5,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Your+Real+Name+%F0%9F%91%8B;Software+Developer+from+Indonesia;Building+web%2C+mobile%2C+and+system+tools;Learning+something+new+every+day+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Faiz+Aqeel+%F0%9F%91%8B;Software+Developer+from+Indonesia;Building+web%2C+mobile%2C+and+system+tools;Learning+something+new+every+day+%F0%9F%9A%80"
     alt="Typing animation"
   />
 
@@ -14,10 +14,10 @@
   <a href="https://github.com/QelIz">
     <img src="https://img.shields.io/badge/GitHub-QelIz-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:faizaqeel28@gmail.com">
     <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/faizaqeel">
     <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
