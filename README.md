@@ -14,10 +14,10 @@ Software Developer from Indonesia 🇮🇩 focused on building modern web applic
 
 Hello! I'm **Faiz Aqeel**, a software developer interested in application development, automation, and building practical digital tools.
 
-- 🌐 **Web**: Developing scalable applications and APIs with **TypeScript**, **React**, and **Next.js**
-- 📱 **Mobile**: Building modern Android applications with **Kotlin** and **Jetpack Compose**
-- ⚙️ **Systems**: Exploring systems programming and Windows automation with **Rust**
-- 🚀 **Deployment**: Managing continuous delivery and deployment workflows via **Vercel** and **GitHub Actions**
+- **Web**: Developing scalable applications and APIs with **TypeScript**, **React**, and **Next.js**
+- **Mobile**: Building modern Android applications with **Kotlin** and **Jetpack Compose**
+- **Systems**: Exploring systems programming and Windows automation with **Rust**
+- **Deployment**: Managing continuous delivery and deployment workflows via **Vercel** and **GitHub Actions**
 
 ---
 
