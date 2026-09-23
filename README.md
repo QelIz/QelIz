@@ -1,11 +1,11 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=240&section=header&text=Muhammad%20Faiz%20Aqeel&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=250&section=header&text=Muhammad%20Faiz%20Aqeel&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=18&animation=twinkling"
     width="100%"
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Muhammad+Faiz+Aqeel+%F0%9F%91%8B;Software+Developer+from+Indonesia;Building+web%2C+mobile%2C+and+system+tools;Learning+something+new+every+day+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=const+developer+%3D+%22Muhammad+Faiz+Aqeel%22%3B;Software+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+web%2C+mobile%2C+and+system-level+tools+%E2%9A%A1;Passionate+about+Rust%2C+Kotlin%2C+and+TypeScript+%F0%9F%9A%80"
     alt="Typing animation"
   />
 
@@ -51,13 +51,13 @@ My current areas of interest include:
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=QelIz&show_icons=true&hide_border=true&bg_color=0f172a&title_color=67e8f9&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=QelIz&show_icons=true&hide_border=true&bg_color=0f172a&title_color=67e8f9&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github&border_radius=8"
     alt="GitHub statistics"
   />
 
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=QelIz&layout=compact&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=e2e8f0&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=QelIz&layout=compact&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=e2e8f0&langs_count=8&border_radius=8"
     alt="Top languages"
   />
 </div>
@@ -66,7 +66,7 @@ My current areas of interest include:
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=QelIz&hide_border=true&background=0F172A&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8"
+    src="https://streak-stats.demolab.com?user=QelIz&hide_border=true&background=0F172A&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border_radius=8"
     alt="GitHub contribution streak"
   />
 </div>
@@ -75,7 +75,7 @@ My current areas of interest include:
 
 <div align="center">
   <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    src="./profile-3d-contrib/profile-night-view.svg"
     alt="3D GitHub contribution graph"
     width="100%"
   />
