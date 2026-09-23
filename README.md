@@ -1,11 +1,11 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=240&section=header&text=Your%20Real%20Name&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=240&section=header&text=Muhammad%20Faiz%20Aqeel&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=18"
     width="100%"
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Faiz+Aqeel+%F0%9F%91%8B;Software+Developer+from+Indonesia;Building+web%2C+mobile%2C+and+system+tools;Learning+something+new+every+day+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Hello%2C+I'Muhammad+Faiz+Aqeel+%F0%9F%91%8B;Software+Developer+from+Indonesia;Building+web%2C+mobile%2C+and+system+tools;Learning+something+new+every+day+%F0%9F%9A%80"
     alt="Typing animation"
   />
 
