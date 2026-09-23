@@ -5,7 +5,7 @@ Software Developer from Indonesia 🇮🇩 focused on building modern web applic
 <p>
   <a href="https://github.com/QelIz"><img src="https://img.shields.io/badge/GitHub-QelIz-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/faizaqeel"><img src="https://img.shields.io/badge/LinkedIn-faizaqeel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="faizaqeel28@gmail.com"><img src="https://img.shields.io/badge/Email-faizaqeel28%40gmail.com-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:faizaqeel28@gmail.com"><img src="https://img.shields.io/badge/Email-faizaqeel28%40gmail.com-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Hello! I'm **Faiz Aqeel**, a software developer interested in application develo
 Feel free to reach out for collaboration or questions:
 
 <p>
-  <a href="faizaqeel28@gmail.com">
+  <a href="mailto:faizaqeel28@gmail.com">
     <img src="https://img.shields.io/badge/Email-faizaqeel28%40gmail.com-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/faizaqeel">
