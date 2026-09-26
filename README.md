@@ -8,18 +8,6 @@ Software Developer from Indonesia 🇮🇩 focused on building modern web applic
   <a href="mailto:faizaqeel28@gmail.com"><img src="https://img.shields.io/badge/Email-faizaqeel28%40gmail.com-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-## About Me
-
-Hello! I'm **Faiz Aqeel**, a software developer interested in application development, automation, and building practical digital tools.
-
-- **Web**: Developing scalable applications and APIs with **TypeScript**, **React**, and **Next.js**
-- **Mobile**: Building modern Android applications with **Kotlin** and **Jetpack Compose**
-- **Systems**: Exploring systems programming and Windows automation with **Rust**
-- **Deployment**: Managing continuous delivery and deployment workflows via **Vercel** and **GitHub Actions**
-
----
 
 ## Technologies I Use
 
